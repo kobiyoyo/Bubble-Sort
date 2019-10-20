@@ -13,9 +13,6 @@ This project was completed in line with standards provided by [Microverse](https
 
 - Ruby
 
-## Authors
-[Danilo Zagarcanin ](https://github.com/danilozag1992)
-[Adama Chubiyojo Desmond](https://github.com/kobiyoyo)
 
 ## Getting Started
 
